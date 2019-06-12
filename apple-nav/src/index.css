@@ -34,6 +34,9 @@ a:focus{
   color: white;
   font-size: 1.4rem;
 }
+.headernav a:focus, a:hover{
+  color: #aeaeae;
+}
 .subnav a {
   color: #222;
   font-size: 1.1rem;
